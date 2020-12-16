@@ -1,0 +1,150 @@
+ezzhou - hw3/hw3_main
+
+Total Points Earned
+Theme: DataSmooth1, Earned Points: 4.5, Total Available Points: 7.5
+Theme: DataSmooth2, Earned Points: 6.5, Total Available Points: 7.5
+Theme: Earthquake1, Earned Points: 7.5, Total Available Points: 7.5
+Theme: Earthquake2, Earned Points: 7.5, Total Available Points: 7.5
+Theme: ShowManager1, Earned Points: 7.5, Total Available Points: 7.5
+Theme: ShowManager2, Earned Points: 7.5, Total Available Points: 7.5
+
+Our tests on your code:
+Name: DataSmooth1 #5; Result: PASSED
+Theme: DataSmooth1; Worth: 3; Earned: 3
+Description:
+ Testing DataSmooth1 on a list with a variety of shows.
+
+Name: DataSmooth2 #5; Result: PASSED
+Theme: DataSmooth2; Worth: 3; Earned: 3
+Description:
+ Testing DataSmooth2 on a list with a variety of shows.
+
+Name: Earthquake1 #5; Result: PASSED
+Theme: Earthquake1; Worth: 3; Earned: 3
+Description:
+ Testing Earthquake1 on a regular list of data.
+
+Name: Earthquake2 #5; Result: PASSED
+Theme: Earthquake2; Worth: 3; Earned: 3
+Description:
+ Testing Earthquake2 on a regular list of data.
+
+Name: ShowManager1 #4; Result: PASSED
+Theme: ShowManager1; Worth: 3; Earned: 3
+Description:
+ Testing whether ShowManager1 properly handles a list of all show types.
+
+Name: ShowManager2 #4; Result: PASSED
+Theme: ShowManager2; Worth: 3; Earned: 3
+Description:
+ Testing whether ShowManager2 properly handles a list of all show types.
+
+Name: DataSmooth1 #4; Result: FAILED
+Theme: DataSmooth1; Worth: 1; Earned: 0
+Description:
+ Testing whether Datasmooth1 correctly handles an empty list of shows.
+
+Name: DataSmooth1 #4; Result: PASSED
+Theme: DataSmooth2; Worth: 1; Earned: 1
+Description:
+ Testing whether Datasmooth2 correctly handles an empty list of shows.
+
+Name: DataSmooth1 #3; Result: FAILED
+Theme: DataSmooth1; Worth: 1; Earned: 0
+Description:
+ Testing whether Datasmooth1 correctly handles a show with no episodes.
+
+Name: DataSmooth2 #3; Result: FAILED
+Theme: DataSmooth2; Worth: 1; Earned: 0
+Description:
+ Testing whether Datasmooth2 correctly handles a show with no episodes.
+
+Name: DataSmooth1 #1; Result: FAILED
+Theme: DataSmooth1; Worth: 1; Earned: 0
+Description:
+ Testing whether Datasmooth1 correctly handles a list with only one show.
+
+Name: DataSmooth2 #1; Result: PASSED
+Theme: DataSmooth2; Worth: 1; Earned: 1
+Description:
+ Testing whether Datasmooth2 correctly handles a list with only one show.
+
+Name: DataSmooth1 #2; Result: PASSED
+Theme: DataSmooth1; Worth: 1.5; Earned: 1.5
+Description:
+ Testing whether Datasmooth1 correctly handles a list with only two shows.
+
+Name: DataSmooth2 #2; Result: PASSED
+Theme: DataSmooth2; Worth: 1.5; Earned: 1.5
+Description:
+ Testing whether Datasmooth2 correctly handles a list with only two shows.
+
+Name: Earthquake1 #3; Result: PASSED
+Theme: Earthquake1; Worth: 1; Earned: 1
+Description:
+ Testing Earthquake1 on list where specified month is 0 (an invalid number).
+
+Name: Earthquake2 #3; Result: PASSED
+Theme: Earthquake2; Worth: 1; Earned: 1
+Description:
+ Testing Earthquake2 on list where specified month is 0 (an invalid number).
+
+Name: Earthquake1 #4; Result: PASSED
+Theme: Earthquake1; Worth: 1; Earned: 1
+Description:
+ Testing Earthquake1 on list where specified month is 13 (an invalid number).
+
+Name: Earthquake2 #4; Result: PASSED
+Theme: Earthquake2; Worth: 1; Earned: 1
+Description:
+ Testing Earthquake2 on list where specified month is 13 (an invalid number).
+
+Name: Earthquake1 #1; Result: PASSED
+Theme: Earthquake1; Worth: 1; Earned: 1
+Description:
+ Testing Earthquake1 on an empty list.
+
+Name: Earthquake2 #1; Result: PASSED
+Theme: Earthquake2; Worth: 1; Earned: 1
+Description:
+ Testing Earthquake2 on an empty list.
+
+Name: Earthquake1 #2; Result: PASSED
+Theme: Earthquake1; Worth: 1.5; Earned: 1.5
+Description:
+ Testing Earthquake1 on list where specified month does not exist.
+
+Name: Earthquake2 #2; Result: PASSED
+Theme: Earthquake2; Worth: 1.5; Earned: 1.5
+Description:
+ Testing Earthquake2 on list where specified month does not exist.
+
+Name: ShowManager1 #1; Result: PASSED
+Theme: ShowManager1; Worth: 1.5; Earned: 1.5
+Description:
+ Testing whether ShowManager1 properly handles an empty list of shows.
+
+Name: ShowManager2 #1; Result: PASSED
+Theme: ShowManager2; Worth: 1.5; Earned: 1.5
+Description:
+ Testing whether ShowManager2 properly handles an empty list of shows.
+
+Name: ShowManager1 #2; Result: PASSED
+Theme: ShowManager1; Worth: 1.5; Earned: 1.5
+Description:
+ Testing whether ShowManager1 properly handles a list of only overnight shows.
+
+Name: ShowManager2 #2; Result: PASSED
+Theme: ShowManager2; Worth: 1.5; Earned: 1.5
+Description:
+ Testing whether ShowManager2 properly handles a list of only overnight shows.
+
+Name: ShowManager1 #3; Result: PASSED
+Theme: ShowManager1; Worth: 1.5; Earned: 1.5
+Description:
+ Testing whether ShowManager1 properly handles a list of only specials.
+
+Name: ShowManager2 #3; Result: PASSED
+Theme: ShowManager2; Worth: 1.5; Earned: 1.5
+Description:
+ Testing whether ShowManager2 properly handles a list of only specials.
